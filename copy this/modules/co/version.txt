@@ -1,0 +1,7 @@
+Version 0.1.1
+
+- Seo Text Field implemented in actions main
+
+Version 0.1.0 (alpha)
+
+- Landingpage Function implemented

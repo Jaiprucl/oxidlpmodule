@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OX>
+    <OXMENU id="NAVIGATION_ESHOPADMIN">
+        <MAINMENU id="co">
+			<SUBMENU id="landingpages" cl="co_actions" list="co_lpactions_list">
+                <TAB id="co_main" cl="co_lpactions_main" />
+				<TAB id="co_seo" cl="co_lpactions_seo" />
+                <BTN id="actions_new" />
+            </SUBMENU>
+        </MAINMENU>
+    </OXMENU>
+</OX>
